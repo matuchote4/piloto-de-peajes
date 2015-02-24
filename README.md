@@ -13,7 +13,7 @@ automovilísticos, que involucran heridos y fallecidos, y se desconoce si se
 deben principalmente al estado de las rutas, a factores climáticos, etc. 
 
 Los Data Sets que usaremos son:
- - Flujo Vehicular por Unidades de Peaje 
- - Seguridad Vial autopistas AUSA 
+ - [Flujo Vehicular por Unidades de Peaje](http://data.buenosaires.gob.ar/dataset/flujo-vehicular-peaje-ausa)
+ - [Seguridad Vial autopistas AUSA](http://data.buenosaires.gob.ar/dataset/seguridad-vial-autopistas-ausa)
 
 Disponibles en la página de datos abiertos del gobierno de Buenos Aires.
